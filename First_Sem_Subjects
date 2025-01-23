@@ -1,0 +1,5 @@
+Console.WriteLine("Applied Physics");
+Console.WriteLine("Calculus & Geometry");
+Console.WriteLine("Information Technology Skills");
+Console.WriteLine("Islamiat");
+Console.WriteLine("Computer");
