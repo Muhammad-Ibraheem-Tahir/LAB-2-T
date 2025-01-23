@@ -1,0 +1,5 @@
+Console.WriteLine("Urdu");
+Console.WriteLine("English");
+Console.WriteLine("Maths");
+Console.WriteLine("Computer");
+Console.WriteLine("Physics");
